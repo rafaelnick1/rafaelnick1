@@ -43,7 +43,7 @@ Trabalho com Delphi (Object Pascal), bancos de dados Firebird e SQL Server, alé
 Estou aberto a conexões, parcerias e oportunidades para colaborar em projetos desafiadores. Entre em contato:
 
 - **Email:** nickmarchesini@gmail.com  
-- **LinkedIn:** [rafael-marchesini-9846a2176](https://www.linkedin.com/in/rafael-marchesini/)
+- **LinkedIn:** [rafael-marchesini](https://www.linkedin.com/in/rafael-marchesini/)
 
 ---
 
