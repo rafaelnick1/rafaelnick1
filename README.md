@@ -1,6 +1,6 @@
 # 👨‍💻 Rafael Marchesini
 
-🎯 Analista de Sistemas | Delphi (Object Pascal) | ERP Completo | Integração Fiscal | TEF (Pay&Go)  
+🎯 Analista de Sistemas | Programador Delphi (Object Pascal) 
 📍 Pedreira/SP, Brasil  
 📧 nickmarchesini@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/rafael-marchesini/) | [GitHub](https://github.com/rafaelnick1)
